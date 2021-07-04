@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="15dp"
+    tools:context=".Login"
+    android:gravity="center_horizontal">
+
+    <ImageView
+        android:layout_width="300dp"
+        android:layout_height="210dp"
+        android:src="@drawable/reg"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Login"
+        android:textColor="#0d6e6a"
+        android:textSize="30dp"
+        android:textStyle="bold"
+        android:letterSpacing="0.03"/>
+
+    <EditText
+        android:id="@+id/et_lemail"
+        android:inputType="textEmailAddress"
+        android:layout_width="320dp"
+        android:layout_height="45dp"
+        android:background="@drawable/forget"
+        android:hint="Email"
+        android:textColor="#0d6e6a"
+        android:textStyle="bold"
+        android:textSize="15dp"
+        android:layout_marginTop="20dp"
+        android:paddingLeft="20dp"/>
+
+    <EditText
+        android:id="@+id/et_lpassword"
+        android:inputType="textPassword"
+        android:layout_width="320dp"
+        android:layout_height="45dp"
+        android:background="@drawable/forget"
+        android:hint=" Password"
+        android:textColor="#0d6e6a"
+        android:textStyle="bold"
+        android:textSize="15dp"
+        android:layout_marginTop="20dp"
+        android:paddingLeft="20dp"/>
+
+    <TextView
+        android:id="@+id/tv_to_forgotpassword"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Forget Password?"
+        android:textColor="#0d6e6a"
+        android:textStyle="bold"
+        android:textSize="15dp"
+        android:layout_gravity="end"
+        android:layout_marginTop="10dp"
+        android:layout_marginRight="35dp"/>
+
+    <ProgressBar
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:visibility="gone"
+        android:id="@+id/pb_login"
+        android:layout_marginTop="20dp"/>
+
+    <Button
+        android:id="@+id/btn_login"
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:backgroundTint="#0d6e6a"
+        android:text="Login"
+        android:textSize="18dp"
+        android:textStyle="bold"
+        android:textColor="#FFF"
+        android:layout_marginTop="20dp"/>
+
+    <TextView
+        android:id="@+id/tv_to_register"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Don't have an account? Sign Up"
+        android:textColor="#0d6e6a"
+        android:textStyle="bold"
+        android:textSize="15dp"
+        android:layout_marginTop="15dp"/>
+
+
+
+</LinearLayout>

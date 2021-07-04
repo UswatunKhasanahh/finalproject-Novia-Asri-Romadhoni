@@ -9,7 +9,14 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Aplikasi_wisata">
-        <activity android:name=".MainActivity">
+        <activity android:name=".MenuDestination"></activity>
+        <activity android:name=".MenuReport"></activity>
+        <activity android:name=".EditDestination"></activity>
+        <activity android:name=".Owner" />
+        <activity android:name=".MainActivity"/>
+        <activity android:name=".Admin"/>
+        <activity android:name=".Register" />
+        <activity android:name=".Login">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
