@@ -1,3 +1,33 @@
 <resources>
     <string name="app_name">Aplikasi_wisata</string>
+
+    <string name="text1">
+        Wisata Baturaden merupakan tempat wisata yang berada di sebelah utara Kota Purwokerto atau tepatnya di lereng gunung slamet.
+        Baturaden merupakan tempat wisata alam yang indah, di Indonesia memang banyak wisata alam yang indah seperti Wisata Alam Bogor,
+        namun Baturaden tidak kalah indahnya dengan tempat wisata alam yang lain, banyak wisatawan datang ke tempat ini untuk memanjakan mata begitu megahnya ciptaan Tuhan,
+        dan di kawasan Baturaden terdapat beberapa spot yang menarik. Destinasi wisata ini sangat cocok dijadikan sebagai wisata alam.
+    </string>
+
+    <string name="text2">
+        Baturraden Adventure Forest (BAF) atau Rimba Tualang Baturraden adalah bentuk baru wahana ekowisata dan petualangan rimba dengan pemandangan hutan damar
+        dan pinus serta aneka vegetasi hutan yang membentang di kaki Gunung Slamet seluas 50 Ha.
+        BAF tidak hanya menyajikan pemandangan alam Baturraden yang sudah terkenal pesonanya, tetapi juga mengemas pesona 4 unsur alam;
+        gunung, sungai, hutan dan kabut, ke dalam berbagai jenis petualangan fisik (physical adventure) dan petualangan wawasan (mind adventure) dalam berbagai kegiatan
+    </string>
+
+    <string name="text3">
+        Definisi Objek Water Park merupakan tempat bermain dan rekreasi outdor yang luas untuk anak dan juga orang dewasa, dimana sarana utamanya adalah air,
+        sebuah taman hiburan dimana atraksi-atraksinya meliputi seluncuranslides, air mancur, dan fasilitas rekreasi lainnya yang berkaitan dengan air.
+        Waterpark adalah sebuah taman hiburan yang menampilkan wilayah waterplay, seperti slide air, bantalan splash, spraygrounds bermain air, sungai malas,
+        atau mandi rekreasi lainnya, berenang, dan lingkungan barefooting. Waterparks juga dapat dilengkapi dengan beberapa jenis area selancar buatan atau Bodyboarding
+        seperti kolam gelombang atau FlowRider Wikipedia.
+    </string>
+
+    <string name="text4">
+        Objek wisata yang satu ini meskipun bernama hutan, namun tidak terkesan seram. Justru keindahan alam berupa banyaknya pohon pinus begitu menenteramkan.
+        Pohon pinus berjajar dengan rapi dan tinggi menjulang. Objek wisata ini begitu sejuk, karena terletak di kaki Gunung Slamet. Harumnya dedaunan segar menjadi aroma penyegar tatkala menginjakkan kaki di objek wisata ini.
+        Pemandangan yang disuguhkan begitu mempesona, hijau dimana-mana dengan naungan langit yang biru. Pemandangan alam ini dapat menjadi objek foto yang memukau jika diambil dari angle yang tepat.
+        Selain itu, objek wisata ini juga menyuguhkan berbagai wahana permainan. Yang mana dapat dinikmati mulai dari anak-anak hingga orang dewasa. Ditambah lagi, spot-spot foto yang dibuat dengan sangat baik,
+        menimbulkan kesan menyatu dengan alam. Serunya lagi, pengunjung dapat menikmati objek wisata ini hingga malam hari.
+    </string>
 </resources>

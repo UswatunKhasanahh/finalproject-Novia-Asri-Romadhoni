@@ -22,6 +22,16 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/Theme.Aplikasi_wisata" >
+        <activity android:name="noviaasriromadhoni.pmo.aplikasi_wisata.KebunKuWaterPark" />
+        <activity android:name="noviaasriromadhoni.pmo.aplikasi_wisata.BaturradenAdventureForest" />
+        <activity android:name="noviaasriromadhoni.pmo.aplikasi_wisata.Limpakuwus" />
+        <activity android:name="noviaasriromadhoni.pmo.aplikasi_wisata.Baturaden" />
+        <activity android:name="noviaasriromadhoni.pmo.aplikasi_wisata.WisataKuliner" />
+        <activity android:name="noviaasriromadhoni.pmo.aplikasi_wisata.WisataSejarah" />
+        <activity android:name="noviaasriromadhoni.pmo.aplikasi_wisata.WisataKeluarga" />
+        <activity android:name="noviaasriromadhoni.pmo.aplikasi_wisata.WisataEdukasi" />
+        <activity android:name="noviaasriromadhoni.pmo.aplikasi_wisata.WisataReligi" />
+        <activity android:name="noviaasriromadhoni.pmo.aplikasi_wisata.WisataAlam" />
         <activity android:name="noviaasriromadhoni.pmo.aplikasi_wisata.MenuDestination" />
         <activity android:name="noviaasriromadhoni.pmo.aplikasi_wisata.MenuReport" />
         <activity android:name="noviaasriromadhoni.pmo.aplikasi_wisata.EditDestination" />

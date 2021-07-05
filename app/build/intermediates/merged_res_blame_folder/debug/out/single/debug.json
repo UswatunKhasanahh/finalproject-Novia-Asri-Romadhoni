@@ -1,154 +1,194 @@
 [
     {
-        "merged": "D:\\PMO\\finalproject-Novia-Asri-Romadhoni\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
-        "source": "D:\\PMO\\finalproject-Novia-Asri-Romadhoni\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+        "merged": "D:\\Kuliah_sem4\\PMo\\finalproject-Novia-Asri-Romadhoni\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_wisata_kuliner.xml.flat",
+        "source": "D:\\Kuliah_sem4\\PMo\\finalproject-Novia-Asri-Romadhoni\\app\\src\\main\\res\\layout\\activity_wisata_kuliner.xml"
     },
     {
-        "merged": "D:\\PMO\\finalproject-Novia-Asri-Romadhoni\\app\\build\\intermediates\\res\\merged\\debug\\drawable_hill.png.flat",
-        "source": "D:\\PMO\\finalproject-Novia-Asri-Romadhoni\\app\\src\\main\\res\\drawable\\hill.png"
+        "merged": "D:\\Kuliah_sem4\\PMo\\finalproject-Novia-Asri-Romadhoni\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_wisata_keluarga.xml.flat",
+        "source": "D:\\Kuliah_sem4\\PMo\\finalproject-Novia-Asri-Romadhoni\\app\\src\\main\\res\\layout\\activity_wisata_keluarga.xml"
     },
     {
-        "merged": "D:\\PMO\\finalproject-Novia-Asri-Romadhoni\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_admin.xml.flat",
-        "source": "D:\\PMO\\finalproject-Novia-Asri-Romadhoni\\app\\src\\main\\res\\layout\\activity_admin.xml"
+        "merged": "D:\\Kuliah_sem4\\PMo\\finalproject-Novia-Asri-Romadhoni\\app\\build\\intermediates\\res\\merged\\debug\\drawable_menu.jpg.flat",
+        "source": "D:\\Kuliah_sem4\\PMo\\finalproject-Novia-Asri-Romadhoni\\app\\src\\main\\res\\drawable\\menu.jpg"
     },
     {
-        "merged": "D:\\PMO\\finalproject-Novia-Asri-Romadhoni\\app\\build\\intermediates\\res\\merged\\debug\\drawable_museum.png.flat",
-        "source": "D:\\PMO\\finalproject-Novia-Asri-Romadhoni\\app\\src\\main\\res\\drawable\\museum.png"
+        "merged": "D:\\Kuliah_sem4\\PMo\\finalproject-Novia-Asri-Romadhoni\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_wisata_alam.xml.flat",
+        "source": "D:\\Kuliah_sem4\\PMo\\finalproject-Novia-Asri-Romadhoni\\app\\src\\main\\res\\layout\\activity_wisata_alam.xml"
     },
     {
-        "merged": "D:\\PMO\\finalproject-Novia-Asri-Romadhoni\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "D:\\PMO\\finalproject-Novia-Asri-Romadhoni\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+        "merged": "D:\\Kuliah_sem4\\PMo\\finalproject-Novia-Asri-Romadhoni\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\Kuliah_sem4\\PMo\\finalproject-Novia-Asri-Romadhoni\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
     },
     {
-        "merged": "D:\\PMO\\finalproject-Novia-Asri-Romadhoni\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
-        "source": "D:\\PMO\\finalproject-Novia-Asri-Romadhoni\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+        "merged": "D:\\Kuliah_sem4\\PMo\\finalproject-Novia-Asri-Romadhoni\\app\\build\\intermediates\\res\\merged\\debug\\layout_menu_destination.xml.flat",
+        "source": "D:\\Kuliah_sem4\\PMo\\finalproject-Novia-Asri-Romadhoni\\app\\src\\main\\res\\layout\\menu_destination.xml"
     },
     {
-        "merged": "D:\\PMO\\finalproject-Novia-Asri-Romadhoni\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
-        "source": "D:\\PMO\\finalproject-Novia-Asri-Romadhoni\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+        "merged": "D:\\Kuliah_sem4\\PMo\\finalproject-Novia-Asri-Romadhoni\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_wisata_religi.xml.flat",
+        "source": "D:\\Kuliah_sem4\\PMo\\finalproject-Novia-Asri-Romadhoni\\app\\src\\main\\res\\layout\\activity_wisata_religi.xml"
     },
     {
-        "merged": "D:\\PMO\\finalproject-Novia-Asri-Romadhoni\\app\\build\\intermediates\\res\\merged\\debug\\layout_menu_destination.xml.flat",
-        "source": "D:\\PMO\\finalproject-Novia-Asri-Romadhoni\\app\\src\\main\\res\\layout\\menu_destination.xml"
+        "merged": "D:\\Kuliah_sem4\\PMo\\finalproject-Novia-Asri-Romadhoni\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_owner.xml.flat",
+        "source": "D:\\Kuliah_sem4\\PMo\\finalproject-Novia-Asri-Romadhoni\\app\\src\\main\\res\\layout\\activity_owner.xml"
     },
     {
-        "merged": "D:\\PMO\\finalproject-Novia-Asri-Romadhoni\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_register.xml.flat",
-        "source": "D:\\PMO\\finalproject-Novia-Asri-Romadhoni\\app\\src\\main\\res\\layout\\activity_register.xml"
+        "merged": "D:\\Kuliah_sem4\\PMo\\finalproject-Novia-Asri-Romadhoni\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "D:\\Kuliah_sem4\\PMo\\finalproject-Novia-Asri-Romadhoni\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
     },
     {
-        "merged": "D:\\PMO\\finalproject-Novia-Asri-Romadhoni\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
-        "source": "D:\\PMO\\finalproject-Novia-Asri-Romadhoni\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+        "merged": "D:\\Kuliah_sem4\\PMo\\finalproject-Novia-Asri-Romadhoni\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\Kuliah_sem4\\PMo\\finalproject-Novia-Asri-Romadhoni\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
     },
     {
-        "merged": "D:\\PMO\\finalproject-Novia-Asri-Romadhoni\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
-        "source": "D:\\PMO\\finalproject-Novia-Asri-Romadhoni\\app\\src\\main\\res\\layout\\activity_main.xml"
+        "merged": "D:\\Kuliah_sem4\\PMo\\finalproject-Novia-Asri-Romadhoni\\app\\build\\intermediates\\res\\merged\\debug\\layout_menu_report.xml.flat",
+        "source": "D:\\Kuliah_sem4\\PMo\\finalproject-Novia-Asri-Romadhoni\\app\\src\\main\\res\\layout\\menu_report.xml"
     },
     {
-        "merged": "D:\\PMO\\finalproject-Novia-Asri-Romadhoni\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
-        "source": "D:\\PMO\\finalproject-Novia-Asri-Romadhoni\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+        "merged": "D:\\Kuliah_sem4\\PMo\\finalproject-Novia-Asri-Romadhoni\\app\\build\\intermediates\\res\\merged\\debug\\drawable_forget.xml.flat",
+        "source": "D:\\Kuliah_sem4\\PMo\\finalproject-Novia-Asri-Romadhoni\\app\\src\\main\\res\\drawable\\forget.xml"
     },
     {
-        "merged": "D:\\PMO\\finalproject-Novia-Asri-Romadhoni\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_owner.xml.flat",
-        "source": "D:\\PMO\\finalproject-Novia-Asri-Romadhoni\\app\\src\\main\\res\\layout\\activity_owner.xml"
+        "merged": "D:\\Kuliah_sem4\\PMo\\finalproject-Novia-Asri-Romadhoni\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\Kuliah_sem4\\PMo\\finalproject-Novia-Asri-Romadhoni\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
-        "merged": "D:\\PMO\\finalproject-Novia-Asri-Romadhoni\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
-        "source": "D:\\PMO\\finalproject-Novia-Asri-Romadhoni\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+        "merged": "D:\\Kuliah_sem4\\PMo\\finalproject-Novia-Asri-Romadhoni\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_baturraden_adventure_forest.xml.flat",
+        "source": "D:\\Kuliah_sem4\\PMo\\finalproject-Novia-Asri-Romadhoni\\app\\src\\main\\res\\layout\\activity_baturraden_adventure_forest.xml"
     },
     {
-        "merged": "D:\\PMO\\finalproject-Novia-Asri-Romadhoni\\app\\build\\intermediates\\res\\merged\\debug\\drawable_menu.jpg.flat",
-        "source": "D:\\PMO\\finalproject-Novia-Asri-Romadhoni\\app\\src\\main\\res\\drawable\\menu.jpg"
+        "merged": "D:\\Kuliah_sem4\\PMo\\finalproject-Novia-Asri-Romadhoni\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Kuliah_sem4\\PMo\\finalproject-Novia-Asri-Romadhoni\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "D:\\PMO\\finalproject-Novia-Asri-Romadhoni\\app\\build\\intermediates\\res\\merged\\debug\\drawable_masjid.png.flat",
-        "source": "D:\\PMO\\finalproject-Novia-Asri-Romadhoni\\app\\src\\main\\res\\drawable\\masjid.png"
+        "merged": "D:\\Kuliah_sem4\\PMo\\finalproject-Novia-Asri-Romadhoni\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\Kuliah_sem4\\PMo\\finalproject-Novia-Asri-Romadhoni\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "D:\\PMO\\finalproject-Novia-Asri-Romadhoni\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
-        "source": "D:\\PMO\\finalproject-Novia-Asri-Romadhoni\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+        "merged": "D:\\Kuliah_sem4\\PMo\\finalproject-Novia-Asri-Romadhoni\\app\\build\\intermediates\\res\\merged\\debug\\drawable_hill.png.flat",
+        "source": "D:\\Kuliah_sem4\\PMo\\finalproject-Novia-Asri-Romadhoni\\app\\src\\main\\res\\drawable\\hill.png"
     },
     {
-        "merged": "D:\\PMO\\finalproject-Novia-Asri-Romadhoni\\app\\build\\intermediates\\res\\merged\\debug\\drawable_g.png.flat",
-        "source": "D:\\PMO\\finalproject-Novia-Asri-Romadhoni\\app\\src\\main\\res\\drawable\\g.png"
+        "merged": "D:\\Kuliah_sem4\\PMo\\finalproject-Novia-Asri-Romadhoni\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "D:\\Kuliah_sem4\\PMo\\finalproject-Novia-Asri-Romadhoni\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
     },
     {
-        "merged": "D:\\PMO\\finalproject-Novia-Asri-Romadhoni\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
-        "source": "D:\\PMO\\finalproject-Novia-Asri-Romadhoni\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+        "merged": "D:\\Kuliah_sem4\\PMo\\finalproject-Novia-Asri-Romadhoni\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "D:\\Kuliah_sem4\\PMo\\finalproject-Novia-Asri-Romadhoni\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
     },
     {
-        "merged": "D:\\PMO\\finalproject-Novia-Asri-Romadhoni\\app\\build\\intermediates\\res\\merged\\debug\\drawable_familly.png.flat",
-        "source": "D:\\PMO\\finalproject-Novia-Asri-Romadhoni\\app\\src\\main\\res\\drawable\\familly.png"
+        "merged": "D:\\Kuliah_sem4\\PMo\\finalproject-Novia-Asri-Romadhoni\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_limpakuwus.xml.flat",
+        "source": "D:\\Kuliah_sem4\\PMo\\finalproject-Novia-Asri-Romadhoni\\app\\src\\main\\res\\layout\\activity_limpakuwus.xml"
     },
     {
-        "merged": "D:\\PMO\\finalproject-Novia-Asri-Romadhoni\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "D:\\PMO\\finalproject-Novia-Asri-Romadhoni\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+        "merged": "D:\\Kuliah_sem4\\PMo\\finalproject-Novia-Asri-Romadhoni\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\Kuliah_sem4\\PMo\\finalproject-Novia-Asri-Romadhoni\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
     },
     {
-        "merged": "D:\\PMO\\finalproject-Novia-Asri-Romadhoni\\app\\build\\intermediates\\res\\merged\\debug\\drawable_food.png.flat",
-        "source": "D:\\PMO\\finalproject-Novia-Asri-Romadhoni\\app\\src\\main\\res\\drawable\\food.png"
+        "merged": "D:\\Kuliah_sem4\\PMo\\finalproject-Novia-Asri-Romadhoni\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_baturaden.xml.flat",
+        "source": "D:\\Kuliah_sem4\\PMo\\finalproject-Novia-Asri-Romadhoni\\app\\src\\main\\res\\layout\\activity_baturaden.xml"
     },
     {
-        "merged": "D:\\PMO\\finalproject-Novia-Asri-Romadhoni\\app\\build\\intermediates\\res\\merged\\debug\\drawable_forget.xml.flat",
-        "source": "D:\\PMO\\finalproject-Novia-Asri-Romadhoni\\app\\src\\main\\res\\drawable\\forget.xml"
+        "merged": "D:\\Kuliah_sem4\\PMo\\finalproject-Novia-Asri-Romadhoni\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_wisata_edukasi.xml.flat",
+        "source": "D:\\Kuliah_sem4\\PMo\\finalproject-Novia-Asri-Romadhoni\\app\\src\\main\\res\\layout\\activity_wisata_edukasi.xml"
     },
     {
-        "merged": "D:\\PMO\\finalproject-Novia-Asri-Romadhoni\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "D:\\PMO\\finalproject-Novia-Asri-Romadhoni\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+        "merged": "D:\\Kuliah_sem4\\PMo\\finalproject-Novia-Asri-Romadhoni\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_edit_destination.xml.flat",
+        "source": "D:\\Kuliah_sem4\\PMo\\finalproject-Novia-Asri-Romadhoni\\app\\src\\main\\res\\layout\\activity_edit_destination.xml"
     },
     {
-        "merged": "D:\\PMO\\finalproject-Novia-Asri-Romadhoni\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
-        "source": "D:\\PMO\\finalproject-Novia-Asri-Romadhoni\\app\\src\\main\\res\\layout\\activity_login.xml"
+        "merged": "D:\\Kuliah_sem4\\PMo\\finalproject-Novia-Asri-Romadhoni\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\Kuliah_sem4\\PMo\\finalproject-Novia-Asri-Romadhoni\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "D:\\PMO\\finalproject-Novia-Asri-Romadhoni\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "D:\\PMO\\finalproject-Novia-Asri-Romadhoni\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+        "merged": "D:\\Kuliah_sem4\\PMo\\finalproject-Novia-Asri-Romadhoni\\app\\build\\intermediates\\res\\merged\\debug\\drawable_museum.png.flat",
+        "source": "D:\\Kuliah_sem4\\PMo\\finalproject-Novia-Asri-Romadhoni\\app\\src\\main\\res\\drawable\\museum.png"
     },
     {
-        "merged": "D:\\PMO\\finalproject-Novia-Asri-Romadhoni\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_edit_destination.xml.flat",
-        "source": "D:\\PMO\\finalproject-Novia-Asri-Romadhoni\\app\\src\\main\\res\\layout\\activity_edit_destination.xml"
+        "merged": "D:\\Kuliah_sem4\\PMo\\finalproject-Novia-Asri-Romadhoni\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_kebun_ku_water_park.xml.flat",
+        "source": "D:\\Kuliah_sem4\\PMo\\finalproject-Novia-Asri-Romadhoni\\app\\src\\main\\res\\layout\\activity_kebun_ku_water_park.xml"
     },
     {
-        "merged": "D:\\PMO\\finalproject-Novia-Asri-Romadhoni\\app\\build\\intermediates\\res\\merged\\debug\\drawable_reg.png.flat",
-        "source": "D:\\PMO\\finalproject-Novia-Asri-Romadhoni\\app\\src\\main\\res\\drawable\\reg.png"
+        "merged": "D:\\Kuliah_sem4\\PMo\\finalproject-Novia-Asri-Romadhoni\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\Kuliah_sem4\\PMo\\finalproject-Novia-Asri-Romadhoni\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
-        "merged": "D:\\PMO\\finalproject-Novia-Asri-Romadhoni\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
-        "source": "D:\\PMO\\finalproject-Novia-Asri-Romadhoni\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+        "merged": "D:\\Kuliah_sem4\\PMo\\finalproject-Novia-Asri-Romadhoni\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\Kuliah_sem4\\PMo\\finalproject-Novia-Asri-Romadhoni\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
     },
     {
-        "merged": "D:\\PMO\\finalproject-Novia-Asri-Romadhoni\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
-        "source": "D:\\PMO\\finalproject-Novia-Asri-Romadhoni\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+        "merged": "D:\\Kuliah_sem4\\PMo\\finalproject-Novia-Asri-Romadhoni\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_wisata_sejarah.xml.flat",
+        "source": "D:\\Kuliah_sem4\\PMo\\finalproject-Novia-Asri-Romadhoni\\app\\src\\main\\res\\layout\\activity_wisata_sejarah.xml"
     },
     {
-        "merged": "D:\\PMO\\finalproject-Novia-Asri-Romadhoni\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
-        "source": "D:\\PMO\\finalproject-Novia-Asri-Romadhoni\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+        "merged": "D:\\Kuliah_sem4\\PMo\\finalproject-Novia-Asri-Romadhoni\\app\\build\\intermediates\\res\\merged\\debug\\drawable_forget2.xml.flat",
+        "source": "D:\\Kuliah_sem4\\PMo\\finalproject-Novia-Asri-Romadhoni\\app\\src\\main\\res\\drawable\\forget2.xml"
     },
     {
-        "merged": "D:\\PMO\\finalproject-Novia-Asri-Romadhoni\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
-        "source": "D:\\PMO\\finalproject-Novia-Asri-Romadhoni\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+        "merged": "D:\\Kuliah_sem4\\PMo\\finalproject-Novia-Asri-Romadhoni\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Kuliah_sem4\\PMo\\finalproject-Novia-Asri-Romadhoni\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "D:\\PMO\\finalproject-Novia-Asri-Romadhoni\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
-        "source": "D:\\PMO\\finalproject-Novia-Asri-Romadhoni\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+        "merged": "D:\\Kuliah_sem4\\PMo\\finalproject-Novia-Asri-Romadhoni\\app\\build\\intermediates\\res\\merged\\debug\\drawable_g.png.flat",
+        "source": "D:\\Kuliah_sem4\\PMo\\finalproject-Novia-Asri-Romadhoni\\app\\src\\main\\res\\drawable\\g.png"
     },
     {
-        "merged": "D:\\PMO\\finalproject-Novia-Asri-Romadhoni\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
-        "source": "D:\\PMO\\finalproject-Novia-Asri-Romadhoni\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+        "merged": "D:\\Kuliah_sem4\\PMo\\finalproject-Novia-Asri-Romadhoni\\app\\build\\intermediates\\res\\merged\\debug\\drawable_food.png.flat",
+        "source": "D:\\Kuliah_sem4\\PMo\\finalproject-Novia-Asri-Romadhoni\\app\\src\\main\\res\\drawable\\food.png"
     },
     {
-        "merged": "D:\\PMO\\finalproject-Novia-Asri-Romadhoni\\app\\build\\intermediates\\res\\merged\\debug\\drawable_forget2.xml.flat",
-        "source": "D:\\PMO\\finalproject-Novia-Asri-Romadhoni\\app\\src\\main\\res\\drawable\\forget2.xml"
+        "merged": "D:\\Kuliah_sem4\\PMo\\finalproject-Novia-Asri-Romadhoni\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Kuliah_sem4\\PMo\\finalproject-Novia-Asri-Romadhoni\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "D:\\PMO\\finalproject-Novia-Asri-Romadhoni\\app\\build\\intermediates\\res\\merged\\debug\\layout_menu_report.xml.flat",
-        "source": "D:\\PMO\\finalproject-Novia-Asri-Romadhoni\\app\\src\\main\\res\\layout\\menu_report.xml"
+        "merged": "D:\\Kuliah_sem4\\PMo\\finalproject-Novia-Asri-Romadhoni\\app\\build\\intermediates\\res\\merged\\debug\\drawable_masjid.png.flat",
+        "source": "D:\\Kuliah_sem4\\PMo\\finalproject-Novia-Asri-Romadhoni\\app\\src\\main\\res\\drawable\\masjid.png"
     },
     {
-        "merged": "D:\\PMO\\finalproject-Novia-Asri-Romadhoni\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "D:\\PMO\\finalproject-Novia-Asri-Romadhoni\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+        "merged": "D:\\Kuliah_sem4\\PMo\\finalproject-Novia-Asri-Romadhoni\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "D:\\Kuliah_sem4\\PMo\\finalproject-Novia-Asri-Romadhoni\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
     },
     {
-        "merged": "D:\\PMO\\finalproject-Novia-Asri-Romadhoni\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
-        "source": "D:\\PMO\\finalproject-Novia-Asri-Romadhoni\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+        "merged": "D:\\Kuliah_sem4\\PMo\\finalproject-Novia-Asri-Romadhoni\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Kuliah_sem4\\PMo\\finalproject-Novia-Asri-Romadhoni\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Kuliah_sem4\\PMo\\finalproject-Novia-Asri-Romadhoni\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\Kuliah_sem4\\PMo\\finalproject-Novia-Asri-Romadhoni\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Kuliah_sem4\\PMo\\finalproject-Novia-Asri-Romadhoni\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_register.xml.flat",
+        "source": "D:\\Kuliah_sem4\\PMo\\finalproject-Novia-Asri-Romadhoni\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "D:\\Kuliah_sem4\\PMo\\finalproject-Novia-Asri-Romadhoni\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\Kuliah_sem4\\PMo\\finalproject-Novia-Asri-Romadhoni\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\Kuliah_sem4\\PMo\\finalproject-Novia-Asri-Romadhoni\\app\\build\\intermediates\\res\\merged\\debug\\drawable_reg.png.flat",
+        "source": "D:\\Kuliah_sem4\\PMo\\finalproject-Novia-Asri-Romadhoni\\app\\src\\main\\res\\drawable\\reg.png"
+    },
+    {
+        "merged": "D:\\Kuliah_sem4\\PMo\\finalproject-Novia-Asri-Romadhoni\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Kuliah_sem4\\PMo\\finalproject-Novia-Asri-Romadhoni\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Kuliah_sem4\\PMo\\finalproject-Novia-Asri-Romadhoni\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Kuliah_sem4\\PMo\\finalproject-Novia-Asri-Romadhoni\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Kuliah_sem4\\PMo\\finalproject-Novia-Asri-Romadhoni\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "D:\\Kuliah_sem4\\PMo\\finalproject-Novia-Asri-Romadhoni\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\Kuliah_sem4\\PMo\\finalproject-Novia-Asri-Romadhoni\\app\\build\\intermediates\\res\\merged\\debug\\drawable_familly.png.flat",
+        "source": "D:\\Kuliah_sem4\\PMo\\finalproject-Novia-Asri-Romadhoni\\app\\src\\main\\res\\drawable\\familly.png"
+    },
+    {
+        "merged": "D:\\Kuliah_sem4\\PMo\\finalproject-Novia-Asri-Romadhoni\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_admin.xml.flat",
+        "source": "D:\\Kuliah_sem4\\PMo\\finalproject-Novia-Asri-Romadhoni\\app\\src\\main\\res\\layout\\activity_admin.xml"
+    },
+    {
+        "merged": "D:\\Kuliah_sem4\\PMo\\finalproject-Novia-Asri-Romadhoni\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Kuliah_sem4\\PMo\\finalproject-Novia-Asri-Romadhoni\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
     }
 ]
