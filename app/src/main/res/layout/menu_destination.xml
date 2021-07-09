@@ -63,8 +63,9 @@
                     android:layout_height="120dp">
 
                     <ImageView
-                        android:layout_width="91dp"
-                        android:layout_height="90dp"
+                        android:id="@+id/keluarga"
+                        android:layout_width="81dp"
+                        android:layout_height="97dp"
                         android:layout_gravity="center_horizontal"
                         android:src="@drawable/familly" />
 
@@ -102,6 +103,7 @@
                     android:layout_height="120dp">
 
                     <ImageView
+                        android:id="@+id/sejarah"
                         android:src="@drawable/museum"
                         android:layout_gravity="center_horizontal"
                         android:layout_width="85dp"
@@ -140,6 +142,7 @@
                     android:layout_height="wrap_content">
 
                     <ImageView
+                        android:id="@+id/edukasi"
                         android:layout_gravity="center_horizontal"
                         android:layout_width="wrap_content"
                         android:layout_height="85dp"
@@ -180,6 +183,7 @@
                     android:layout_height="wrap_content">
 
                     <ImageView
+                        android:id="@+id/religi"
                         android:layout_gravity="center_horizontal"
                         android:layout_width="85dp"
                         android:layout_height="85dp"
@@ -223,6 +227,7 @@
                     android:layout_height="wrap_content">
 
                     <ImageView
+                        android:id="@+id/alam"
                         android:layout_gravity="center_horizontal"
                         android:layout_width="wrap_content"
                         android:layout_height="85dp"
@@ -263,6 +268,7 @@
                     android:layout_height="wrap_content">
 
                     <ImageView
+                        android:id="@+id/kuliner"
                         android:layout_gravity="center_horizontal"
                         android:layout_width="wrap_content"
                         android:layout_height="85dp"
